@@ -1,0 +1,17 @@
+{
+  "name": "orbital2-master",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "express.js": "^1.0.0",
+    "firebase": "^9.23.0",
+    "nodemon": "^2.0.22"
+  }
+}
